@@ -1,6 +1,6 @@
 # Lexical-Analyzer
 
-An Implementation of alexical Analyzer as an exercise
+An Implementation of a lexical Analyzer as an exercise
 
 
 
